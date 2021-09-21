@@ -1,4 +1,4 @@
-// import firebase from 'firebase/app';
+// import firebase from 'firebase';
 import React from 'react';
 import ReactDOM from 'react-dom';
 import App from './App';
